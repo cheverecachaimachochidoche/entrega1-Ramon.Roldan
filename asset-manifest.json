@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/entrega1-Ramon.Roldan/static/css/main.81b48a7f.css",
-    "main.js": "/entrega1-Ramon.Roldan/static/js/main.1e45be96.js",
+    "main.js": "/entrega1-Ramon.Roldan/static/js/main.f5146fde.js",
     "index.html": "/entrega1-Ramon.Roldan/index.html",
     "main.81b48a7f.css.map": "/entrega1-Ramon.Roldan/static/css/main.81b48a7f.css.map",
-    "main.1e45be96.js.map": "/entrega1-Ramon.Roldan/static/js/main.1e45be96.js.map"
+    "main.f5146fde.js.map": "/entrega1-Ramon.Roldan/static/js/main.f5146fde.js.map"
   },
   "entrypoints": [
     "static/css/main.81b48a7f.css",
-    "static/js/main.1e45be96.js"
+    "static/js/main.f5146fde.js"
   ]
 }
