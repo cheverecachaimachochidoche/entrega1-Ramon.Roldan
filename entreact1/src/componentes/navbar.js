@@ -5,8 +5,8 @@ const NavBar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light fixed-top custom-navbar-bg">
       <a className="navbar-brand" href="#">
-        <img src="/logo.jpeg" alt="Logo" className="logo d-inline-block align-top" />
-        Tu acuario Online!
+      <img src="/componentes/logo.jpeg" alt="Logo" className="logo d-inline-block align-top" />
+      Tu acuario Online!
       </a>
       <button
         className="navbar-toggler"
@@ -22,13 +22,13 @@ const NavBar = () => {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item">
-            <a className="nav-link" href="#home">Inicio</a>
+            <a className="nav-link" href="#home">Productos 1</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#products">Productos</a>
+            <a className="nav-link" href="#products">Productos 2</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#about">Acerca de</a>
+            <a className="nav-link" href="#about">Productos 3</a>
           </li>
         </ul>
         <CartWidget />
